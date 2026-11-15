@@ -16,6 +16,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3113-beautiful-towers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3113-beautiful-towers-ii) |
@@ -81,11 +82,13 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## String
