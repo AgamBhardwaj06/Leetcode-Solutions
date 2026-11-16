@@ -17,43 +17,17 @@ class Node {
 }
 */
 
-// class Solution {
-//     public List<Integer> postorder(Node root) {
-//         List<Integer>res=new ArrayList<>();
-//         if(root==null)return res;
-//         n_post(root,res);
-//         return res;
-//     }
-//     public void n_post(Node root,List<Integer>res){
-//         Stack<Node>st1=new Stack<>();
-//         st1.push(root);
-//         while(!st1.isEmpty()){
-//             Node temp=st1.pop();
-//             for(Node node:temp.children){
-//                 if(node!=null){
-//                     st1.push(node);
-//                 }
-//             }
-//             res.add(temp.val);
-//         }
-//         Collections.reverse(res);
-//     }
-// }
-
-
 class Solution {
+    public void traverse(Node root,List<Integer>res){
+        if(root==null)return;
+        for(Node node:root.children){
+            traverse(node,res);
+        }
+        res.add(root.val);
+    }
     public List<Integer> postorder(Node root) {
         List<Integer>res=new ArrayList<>();
-        if(root==null)return res;
-        n_post(root,res);
-        res.add(root.val);
+        traverse(root,res);
         return res;
-    }
-    public void n_post(Node root,List<Integer>res){
-        if(root==null) return;
-        for(Node node:root.children){
-            n_post(node,res);
-            res.add(node.val);
-        }
     }
 }
