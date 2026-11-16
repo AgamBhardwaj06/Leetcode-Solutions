@@ -73,6 +73,7 @@
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Matrix
 |  |
 | ------- |
