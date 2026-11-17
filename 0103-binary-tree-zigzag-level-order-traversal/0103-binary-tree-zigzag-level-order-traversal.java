@@ -14,39 +14,35 @@
  * }
  */
 class Solution {
-    static void zigzagtraversal(TreeNode root,List<List<Integer>>res,Queue<TreeNode>qu){
-        qu.add(root);
-        boolean path=true;
+    public void traverse(TreeNode root,List<List<Integer>>res){
+        if(root==null)return;
+        Queue<TreeNode>qu=new LinkedList<>();
+        qu.offer(root);
+        int count=0;
         while(!qu.isEmpty()){
-            int size=qu.size();
-            ArrayList<Integer>arr=new ArrayList<Integer>();
-            for(int i=0;i<size;i++){
-                if(qu.peek().left!=null){
-                    qu.add(qu.peek().left);
+            int n=qu.size();
+            List<Integer>temp=new ArrayList<>();
+            count++;
+            while(n!=0){
+                TreeNode node=qu.poll();
+                if(node.left!=null){
+                    qu.offer(node.left);
                 }
-                if(qu.peek().right!=null){
-                    qu.add(qu.peek().right);
+                if(node.right!=null){
+                    qu.offer(node.right);
                 }
-                arr.add(qu.peek().val);
-                qu.remove();
+                temp.add(node.val);
+                n--;
             }
-            // for(int i:arr){
-            //     System.out.print(i+" ");
-            // }
-            if(path==false) Collections.reverse(arr);
-            // for(int i:arr){
-            //     System.out.print(i+" ");
-            // }
-            res.add(arr);
-            if(path==true) path=false;
-            else path=true;
+            if(count%2==0){
+                Collections.reverse(temp);
+            }
+            res.add(temp);
         }
     }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>>res=new ArrayList<>();
-        Queue<TreeNode>qu=new LinkedList<>();
-        if(root==null) return res;
-        zigzagtraversal(root,res,qu);
+        traverse(root,res);
         return res;
     }
 }
