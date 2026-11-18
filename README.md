@@ -111,6 +111,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Matrix
 |  |
 | ------- |
