@@ -19,6 +19,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3113-beautiful-towers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3114-beautiful-towers-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -43,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
