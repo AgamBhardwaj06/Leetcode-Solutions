@@ -13,44 +13,41 @@
  *     }
  * }
  */
-class Solution {
-    static class Pair{
-        TreeNode node;
-        int idx;
-
-        public Pair(TreeNode node,int idx){
-            this.node=node;
-            this.idx=idx;
-        }
+class Pair{
+    TreeNode node;
+    int idx;
+    public Pair(TreeNode node,int idx){
+        this.node=node;
+        this.idx=idx;
     }
-    static int width(TreeNode root,Deque<Pair>qu){
-        int maxx=0;
+}
+class Solution {
+    public int max_width(TreeNode root){
+        if(root==null)return 1;
+        int max_w=0;
+        Deque<Pair>qu=new LinkedList<>();
         qu.offer(new Pair(root,0));
         while(!qu.isEmpty()){
-
-            int size=qu.size();
-            int leftidx=qu.getFirst().idx;
-            int rightidx=qu.getLast().idx;
-            maxx=Math.max(maxx,(rightidx-leftidx+1));
-
-            while(size>0){
-                size--;
-                Pair temp=qu.poll();
-                TreeNode node=temp.node;
-                int idx=temp.idx;
-
+            int n=qu.size();
+            int left_idx=qu.getFirst().idx;
+            int right_idx=qu.getLast().idx;
+            max_w=Math.max(max_w,right_idx-left_idx+1);
+            while(n!=0){
+                Pair p=qu.poll();
+                TreeNode node=p.node;
+                int i=p.idx;
                 if(node.left!=null){
-                    qu.offer(new Pair(node.left,2*idx+1));
+                    qu.offer(new Pair(node.left,2*i+1));
                 }
                 if(node.right!=null){
-                 qu.offer(new Pair(node.right,2*idx+2));
+                    qu.offer(new Pair(node.right,2*i+2));
                 }
+                n--;
             }
         }
-        return maxx;
+        return max_w;
     }
     public int widthOfBinaryTree(TreeNode root) {
-        Deque<Pair>qu=new LinkedList<>();
-        return width(root,qu);
+        return max_width(root);
     }
 }
