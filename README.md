@@ -29,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Queue
@@ -159,6 +161,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -200,6 +203,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
