@@ -249,4 +249,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
