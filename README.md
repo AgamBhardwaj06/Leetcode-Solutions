@@ -261,6 +261,7 @@
 | [0584-find-customer-referee](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
