@@ -8,7 +8,7 @@ class Solution {
             if(mid+1 < nums.length && nums[mid+1]<nums[mid]){
                 return nums[mid+1];
             }
-            else if(nums[mid]>=nums[low] && nums[mid]>=nums[high]){
+            else if(nums[mid]>=nums[high]){
                 low=mid+1;
             }else{
                 high=mid-1;
