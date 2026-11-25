@@ -23,6 +23,7 @@
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -83,6 +84,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Queue
 |  |
