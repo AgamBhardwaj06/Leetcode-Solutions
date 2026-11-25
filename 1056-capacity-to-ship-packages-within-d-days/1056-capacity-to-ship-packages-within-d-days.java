@@ -12,11 +12,12 @@ class Solution {
             int d=1;
             int w=0;
             for(int i=0;i<weights.length;i++){
-                if(w+weights[i]>mid){
+                if(w+weights[i]<=mid){
+                    
+                    w+=weights[i];
+                }else{
                     d++;
                     w=weights[i];
-                }else{
-                    w+=weights[i];
                 }
             }
             if(d<=days){
