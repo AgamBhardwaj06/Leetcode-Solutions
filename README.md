@@ -12,6 +12,7 @@
 | [0135-candy](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -66,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
@@ -129,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -310,4 +313,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
