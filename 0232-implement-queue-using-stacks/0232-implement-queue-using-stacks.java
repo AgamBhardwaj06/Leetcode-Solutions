@@ -2,7 +2,7 @@ class MyQueue {
     Stack<Integer>st1;
     Stack<Integer>st2;
     public MyQueue() {
-        st1 =new Stack<>();
+        st1=new Stack<>();
         st2=new Stack<>();
     }
     
@@ -17,23 +17,15 @@ class MyQueue {
     }
     
     public int pop() {
-        if(st1.isEmpty()){
-            return -1;
-        }
         return st1.pop();
     }
     
     public int peek() {
-          if(st1.isEmpty()){
-            return -1;
-        }
         return st1.peek();
     }
     
     public boolean empty() {
-          if(st1.isEmpty()){
-            return true;
-        }
+        if(st1.size()==0)return true;
         return false;
     }
 }
