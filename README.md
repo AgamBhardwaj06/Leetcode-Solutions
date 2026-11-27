@@ -12,6 +12,7 @@
 | [0135-candy](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
