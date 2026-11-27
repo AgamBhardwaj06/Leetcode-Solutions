@@ -1,27 +1,31 @@
 class Solution {
     public int calPoints(String[] operations) {
-        Stack<Integer>st=new Stack<>();
-        for(int i=0;i<operations.length;i++){
-            String ch=operations[i];
-            if(ch.equals("C")){
+        Stack<String>st=new Stack<>();
+        for(String s:operations){
+            if(!st.isEmpty() && s.equals("C")){
                 st.pop();
-            }else if(ch.equals("D")){
-                int top=st.peek();
-                st.push(top*2);
-            }else if(ch.equals("+")){
-                int first=st.pop();
-                int second=st.peek();
-                st.push(first);
-                st.push(first+second);
+            }else if(!st.isEmpty() && s.equals("D")){
+                int num=Integer.valueOf(st.peek());
+                num=num*2;
+                String new_score=num+"";
+                st.push(new_score);
+            }else if(st.size()>=2 && s.equals("+")){
+                int num1=Integer.valueOf(st.peek());
+                String temp=st.pop();
+                int num2=Integer.valueOf(st.peek());
+                int num=num1+num2;
+                st.push(temp);
+                String new_score=num+"";
+                st.push(new_score);
             }else{
-                st.push(Integer.parseInt(ch));
+                st.push(s);
             }
-            
         }
-        int sum=0;
-        for(int i:st){
-            sum+=i;
+        int final_score=0;
+        while(!st.isEmpty()){
+            int score=Integer.valueOf(st.pop());
+            final_score+=score;
         }
-        return sum;
+        return final_score;
     }
 }

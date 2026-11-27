@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -170,6 +172,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [3113-beautiful-towers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3114-beautiful-towers-i) |
@@ -324,7 +327,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
