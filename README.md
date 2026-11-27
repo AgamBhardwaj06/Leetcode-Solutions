@@ -155,6 +155,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -167,6 +168,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -327,8 +329,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
