@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -105,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -158,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -321,7 +324,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
