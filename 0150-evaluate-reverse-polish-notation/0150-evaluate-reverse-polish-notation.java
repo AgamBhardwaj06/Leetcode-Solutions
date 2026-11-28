@@ -1,29 +1,29 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer>ist=new Stack<>();    
-        int res=0;
-        if(tokens.length==1) return Integer.parseInt(tokens[0]);
+        Stack<Integer>st=new Stack<>();
         for(int i=0;i<tokens.length;i++){
-            String ch=tokens[i];
-            if(ch.equals("*")||ch.equals("+")||ch.equals("-")||ch.equals("/")){
-                if(!ist.isEmpty()){
-                    int s2=ist.pop();
-                    int s1=ist.pop();
-                
-                    if(ch.equals("*")){
-                        res=s1*s2;
-                    }else if(ch.equals("+")) res=s1+s2;
-                    else if(ch.equals("-")) res=s1-s2;
-                    else{
-                        res=s1/s2;
-                    }
-                }
-                System.out.println(res);
-                ist.push(res);
+            String s=tokens[i];
+            if(st.size()>=2 && s.equals("+")){
+                int num1=st.pop();
+                int num2=st.pop();
+                st.push(num1+num2);
+            }else if(st.size()>=2 && s.equals("-")){
+                int num1=st.pop();
+                int num2=st.pop();
+                st.push(num2-num1);
+            }else if(st.size()>=2 && s.equals("/")){
+                int num1=st.pop();
+                int num2=st.pop();
+                st.push(num2/num1);
+            }else if(st.size()>=2 && s.equals("*")){
+                int num1=st.pop();
+                int num2=st.pop();
+                st.push(num1*num2);
             }else{
-               ist.push(Integer.parseInt(ch));
+                int num=Integer.valueOf(s);
+                st.push(num);
             }
         }
-        return res;
+        return st.pop();
     }
 }
